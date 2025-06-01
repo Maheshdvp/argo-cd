@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: comt-1
-          image: shaikmustafa/mytetrisgame:v2
+          image: mahesh663/mytetrisgame:v2
           ports:
           - containerPort: 3000
